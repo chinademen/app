@@ -2,26 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>
-https://apmobile.CheCcc.com/download/ios/shengyao.ipa
-</string>
-</dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://apmobile.CheCcc.com/download/ios/shengyao.ipa</string>
+                </dict>
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
 <key>needs-shine</key>
 <false/>
 <key>url</key>
-<string>https://apmobile.CheCcc.com/download/ios/icon.png</string>
+<string>http://207.148.73.3:8080/images/ios/icon.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -29,21 +27,21 @@ https://apmobile.CheCcc.com/download/ios/shengyao.ipa
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://apmobile.CheCcc.com/download/ios/icon.png</string>
+<string>http://207.148.73.3:8080/images/ios/icon.png</string>
 </dict>
-</array>
-<key>metadata</key>
-<dict>
-<key>bundle-identifier</key>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
 <string>werf431@gmail.com</string>
-<key>bundle-version</key>
-<string>1.0</string>
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>圣耀娱乐</string>
-</dict>
-</dict>
-</array>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>圣耀娱乐01</string>
+            </dict>
+        </dict>
+    </array>
 </dict>
 </plist>
